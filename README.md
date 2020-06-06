@@ -1,2 +1,2 @@
-# hello-world
-first project that i made
+# Embarcados
+Aqui se encontra projetos pessoais na área de embarcados
